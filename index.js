@@ -13,6 +13,6 @@ function happyHolidaysTo(holidays, name){
   return 'Happy ${holidays}, ${name}!'
 }
 
-function holidaysCountdpwn(holidays, days){
+function holidaysCountdown(holidays, days){
   return "Its ${days} days until ${holidays}"
 }
