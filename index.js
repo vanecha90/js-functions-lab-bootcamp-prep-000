@@ -1,5 +1,5 @@
 // write your code below!
-function happyHolidays(Happy){
-  if( Happy ==="Happy Holidays!")
+function happyHolidays(happy){
+  if( happy ==="Happy Holidays!")
   return Happy;
 }
