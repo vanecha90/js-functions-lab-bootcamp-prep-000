@@ -9,10 +9,10 @@ function happyHolidaysTo(name){
 }
 
 
-function happyHolidaysTo(holidays,name){
+function happyHolidaysTo(holidays, name){
   return 'Happy ${holidays}, ${name}!'
 }
 
-function holidaysCountdpwn(holidays,days){
+function holidaysCountdpwn(holidays, days){
   return "Its ${days} days until ${holidays}"
 }
