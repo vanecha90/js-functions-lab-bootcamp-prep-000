@@ -1,7 +1,7 @@
 // write your code below!
-var happy= "Happy Holidays!";
+var happyHolidays = "Happy Holidays!";
 
-function happyHolidays(happy){
-  if( happy ==="Happy Holidays!")
+function happyHolidays(){
+  
   return Happy;
 }
